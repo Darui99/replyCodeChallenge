@@ -2,12 +2,12 @@
 
 17th place of 1254.
 
-Team:
+Team GGGG:
 
-[dzhiblavi](https://github.com/dzhiblavi)
+- [dzhiblavi](https://github.com/dzhiblavi)
 
-[gleb-kov](https://github.com/gleb-kov)
+- [gleb-kov](https://github.com/gleb-kov)
 
-[Darui99](https://github.com/Darui99)
+- [Darui99](https://github.com/Darui99)
 
-[Villen3tenmerth](https://github.com/Villen3tenmerth)
+- [Villen3tenmerth](https://github.com/Villen3tenmerth)
