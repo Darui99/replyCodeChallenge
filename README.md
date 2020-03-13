@@ -2,7 +2,7 @@
 
 17th place of 1254.
 
-Team GGGG:
+Team **GGGG**:
 
 - [dzhiblavi](https://github.com/dzhiblavi)
 
